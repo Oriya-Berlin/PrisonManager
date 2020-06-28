@@ -1,0 +1,16 @@
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\bin\Debug\PrisonManager.exe.config
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\bin\Debug\PrisonManager.exe
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\bin\Debug\PrisonManager.pdb
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.csprojAssemblyReference.cache
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.Properties.Resources.resources
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.csproj.GenerateResource.cache
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.csproj.CoreCompileInputs.cache
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.exe
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.pdb
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.Options.resources
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.AddForm.resources
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.EnterPage.resources
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\bin\Debug\prisonersTable.mdf
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\bin\Debug\prisonersTable_log.ldf
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.SearchForm.resources
+C:\Users\Berlin\source\repos\PrisonManager\PrisonManager\obj\Debug\PrisonManager.UpdateForm.resources
